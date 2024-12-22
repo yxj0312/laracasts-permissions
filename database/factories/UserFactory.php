@@ -14,7 +14,7 @@ use Laravel\Jetstream\Features;
 class UserFactory extends Factory
 {
     /**
-     * Define the model's default state.
+     * Define the model's default state.ß
      *
      * @return array<string, mixed>
      */
